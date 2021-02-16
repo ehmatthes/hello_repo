@@ -7,5 +7,6 @@ print(f"Using Python version {sys.version}")
 
 print(f"Hello, {name.title()}!")
 print("We hope you like using Git.")
+print("We especially hope you like using pull requests.")
 
 
